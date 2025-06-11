@@ -18,7 +18,7 @@ Welcome to my personal portfolio website! I'm a third-year Computer Science Engi
 
 ## 🌐 Live Preview
 
-Coming Soon! (or you can host it on GitHub Pages)
+Coming Soon!
 
 ---
 
