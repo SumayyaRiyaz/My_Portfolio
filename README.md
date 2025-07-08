@@ -1,6 +1,6 @@
 
 
-Welcome to my personal portfolio website! I'm a third-year Computer Science Engineering student passionate about technology, AI, ethical hacking, and building meaningful digital experiences.
+Welcome to my personal portfolio website! I'm a Computer Science & Engineering student passionate about technology, AI, ethical hacking, and building meaningful digital experiences.
 
 ## 🚀 What’s Inside
 
